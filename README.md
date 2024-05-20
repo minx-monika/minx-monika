@@ -1,4 +1,3 @@
-
 👋 Hey there! I'm Monika Gupta, a coding wizard 🧙‍♂️ by day and a pixel perfectionist by night 🌙. When I'm not busy squashing bugs 🐛 or pushing pixels 🎨, you can find me dreaming up ways to automate my coffee machine ☕ using Python (the snake, not the comedy group).
 
 🔧 **Skills:**  
