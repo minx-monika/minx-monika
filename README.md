@@ -11,8 +11,10 @@
 - I've debugged more spaghetti code than an Italian chef 🍝.
 
 👾 **Current Projects:**  
-- Creating a bot that responds to bad coding jokes with even worse puns 🤖.
-- Designing a UI so intuitive it predicts what you want before you even know it 🔮.
+- Creating a wireframe for a mental health app 💭:
+I'm sketching out the blueprint for an app that's like a personal therapist in your pocket (minus the couch and the hefty fees). 
+- Building a dashboard using Python 📊:
+Picture this: a dashboard so sleek and insightful, it makes even your most chaotic data look like it’s ready for a magazine cover. 
 
 📫 **How to reach me:**  
 - Carrier pigeon preferred, but email works too ✉️.
