@@ -1,4 +1,3 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Monika</h1>
 <h3 align="center">A coding wizard 🧙‍♂️ by day and a pixel perfectionist by night 🌙. When I'm not busy squashing bugs 🐛 or pushing pixels 🎨, you can find me dreaming up ways to automate my coffee machine ☕ using Python (the snake, not the comedy group).</h3>
 
