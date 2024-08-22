@@ -23,7 +23,7 @@ My objective is clear: To use my skills and experiences to craft software design
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minx-monika" alt="minx-monika" /></a> </p>
 
-<img align="right" alt="Coding" width="450" src="https://media.licdn.com/dms/image/v2/C5112AQHfGbUiDRT9-Q/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1534403857933?e=1729123200&v=beta&t=rO9MAwqzOM8o9TRcyjabMOz9Xy5H-pu_5U5vsy9vASQ">
+<img align="right" alt="Coding" width="350" src="https://media.licdn.com/dms/image/v2/C5112AQHfGbUiDRT9-Q/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1534403857933?e=1729123200&v=beta&t=rO9MAwqzOM8o9TRcyjabMOz9Xy5H-pu_5U5vsy9vASQ">
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minx-monika&show_icons=true&locale=en&layout=compact" alt="minx-monika" /></p>
