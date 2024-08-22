@@ -8,7 +8,7 @@ My objective is clear: To use my skills and experiences to craft software design
 </h3>
 <h4>
 
-- 📫 How to reach me **Carrier pigeon preferred, but email works too ✉️.**
+- 📫 How to reach me **Carrier pigeon preferred, but message works too ✉️.**
 
 - ⚡ Fun fact:
 
