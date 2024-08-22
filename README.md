@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **Carrier pigeon preferred, but email works too ✉️.**
 
-- ⚡ Fun fact **My code runs on coffee. Without it, my commits tend to get a bit... buggy 🐞. I once tried to use CSS to fix my bedhead. It didn't work, but now my hair has some impressive transitions 🌪️. I've debugged more spaghetti code than an Italian chef 🍝.**
+- ⚡ Fun fact **My code runs on coffee. Without it, my commits tend to get a bit... buggy 🐞.
+-  I once tried to use CSS to fix my bedhead. It didn't work, but now my hair has some impressive transitions 🌪️.
+-  I've debugged more spaghetti code than an Italian chef 🍝.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
