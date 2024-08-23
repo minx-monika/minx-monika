@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Monika</h1>
+<h1 align="center">Hi 👋, I'm Monika</h1> 
+
 <h3 align="justify">A frontend wizard 🧙‍♂️ by day and a pixel perfectionist by night 🌙. When I'm not busy squashing bugs 🐛 or pushing pixels 🎨, you can find me dreaming up ways to automate my coffee machine ☕ using Python.<br /><br />
 
   
@@ -6,6 +7,7 @@ Outside of profession, I find solace in the pages of books, expressing my creati
 
 My objective is clear: To use my skills and experiences to craft software designs that not only foster growth and innovation but also sprinkle a bit of code that even makes bugs smile.
 </h3>
+<img align="right" alt="editing" width="200" height="200"src="https://github.com/hendrix0731/minx-monika/blob/main/minx.gif">
 <h4>
 
 - 📫 How to reach me::  **Carrier pigeon preferred, but message works too ✉️.**
@@ -19,7 +21,7 @@ My objective is clear: To use my skills and experiences to craft software design
 
   
    I've debugged more spaghetti code than an Italian chef 🍝.**
-  </h4>
+  </h4> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minx-monika" alt="minx-monika" /></a> </p>
 
